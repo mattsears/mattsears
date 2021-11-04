@@ -14,4 +14,4 @@ In my junior year of college, I was hired by LexisNexis where I eventually lead 
 
 In the recent past, I owned and ran a software consulting firm specializing in Ruby on Rails where I lead teams designing and building web applications that helped our clients reach their goals. In 2020, the company was [acquired](https://mattsears.com/articles/2021/06/30/littlelines-acquired/).
 
-I am currently working on my next company that will be launching very soon!
+I'm currently residing in Seattle working on my next company in the e-commerce space that will be launching very soon.
